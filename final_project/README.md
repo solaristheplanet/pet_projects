@@ -36,4 +36,4 @@
    3. Среднее количество действий пользователей между каналом facebook_ads и другими не отличается
 
 ## Используемые библиотеки
-*pandas, matplotlib.pyplot, seaborn*
+*pandas, matplotlib.pyplot, seaborn, numpy, scipy, plotly, math, statsmodel*
