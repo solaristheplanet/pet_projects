@@ -13,4 +13,4 @@
 Исследовать воронку продаж, а также проанализировать результаты А/А/В-тестирования с целью выяснения, какой шрифт лучше. 
 
 ## Используемые библиотеки
-*pandas, matplotlib.pyplot, seaborn*
+*pandas, numpy, scipy, math, matplotlib, seaborn, datetime, plotly*
